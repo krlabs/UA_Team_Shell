@@ -44,11 +44,11 @@ KR Laboratories Shell пропонує інтерактивний користу
 
 1. Клонуйте репозиторій:
     ```bash
-    git clone https://github.com/your-username/kr-laboratories-shell.git
+    https://github.com/krlabs/UA_Team_Shell
     ```
 2. Перейдіть до директорії проекту:
     ```bash
-    cd kr-laboratories-shell
+    cd UA_Team_Shell
     ```
 3. Налаштуйте ваш веб-сервер для обробки PHP-файлів у цій директорії.
 
@@ -61,11 +61,7 @@ KR Laboratories Shell пропонує інтерактивний користу
 
 Проект ліцензований під [MIT License](LICENSE).
 
-## Контрибутори
-
-- [Ваше ім'я](https://github.com/your-username)
-- [Інші контрибутори](https://github.com/your-username/kr-laboratories-shell/graphs/contributors)
 
 ## Підтримка
 
-Для підтримки або запитів звертайтесь на [email@example.com](mailto:email@example.com).
+Для підтримки або запитів звертайтесь на [security@kr-labs.com.ua](mailto:security@kr-labs.com.ua).
