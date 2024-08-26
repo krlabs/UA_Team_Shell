@@ -1,2 +1,2 @@
 # KR. Laboratories Web Shell
-UA Team Web Shell</br></br>
+KR. Laboratories Web Shell Beta version</br></br>
