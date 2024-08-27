@@ -54,8 +54,7 @@ KR Laboratories Web Shell пропонує інтерактивний корис
 
 ## Скріншоти
 
-![Screenshot1](https://example.com/screenshot1.png)
-![Screenshot2](https://example.com/screenshot2.png)
+![Screenshot1](https://kr-labs.com.ua/wp-content/uploads/2024/09/ua_team_shell-scaled.webp)
 
 ## Ліцензія
 
